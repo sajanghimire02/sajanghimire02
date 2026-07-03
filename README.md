@@ -22,7 +22,7 @@ I'm a QA learner testing real applications and documenting everything I find. I 
 
 **Tools:** Chrome DevTools · Git · GitHub · Browser Console · LocalStorage
 
-**Tech Basics:** HTML · CSS · JavaScript · Command Line · VS Code
+**Tech Basics:** HTML · CSS · JavaScript ·Python ·Command Line · VS Code
 
 ---
 
@@ -50,9 +50,8 @@ Tested 10 modules of an e-commerce web application. All bugs documented with roo
 
 ## Currently Learning
 
-- API testing with Postman
-- SQL basics (SELECT, JOIN, GROUP BY)
-- Test automation fundamentals (Selenium)
+- Test Plan
+- Test Case 
 - Writing better bug reports
 
 ---
